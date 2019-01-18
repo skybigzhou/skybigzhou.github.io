@@ -6,7 +6,7 @@ subtitle:
 
 My name is Yuhao Zhou. 
 
-I'm the first year Ph.D. in the Department of Computer Science at The University of Chicago. I'm advised by Prof. Junchen Jiang. Before that, I received my Bachelor degree from ACM class at Shanghai Jiao Tong Univeristy in 2018. [Curriculum Vitae]
+I'm the first year Ph.D. in the Department of Computer Science at The University of Chicago. I'm advised by Prof. Junchen Jiang. Before that, I received my Bachelor degree from ACM class at Shanghai Jiao Tong Univeristy in 2018. [[Curriculum Vitae](/img/Yuhao_Zhou_CV.pdf)]
 
 ### Education
 
