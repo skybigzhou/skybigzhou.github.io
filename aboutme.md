@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yuhao Zhou. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm the first year Ph.D. in the Department of Computer Science at The University of Chicago. I'm advised by Prof. Junchen Jiang. Before that, I received my Bachelor degree from ACM class at Shanghai Jiao Tong Univeristy in 2018. [Curriculum Vitae]
 
-What else do you need?
+### Education
 
-### my history
+- Ph.D. Computer Science, the University of Chicago <p align="left">2018 - Now</p>
+- B.Eng Computer Science, Shanghai Jiao Tong University <p align="left">2014 - 2018</p>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Professional Experience
+
+#### Internship
+
+- Microsoft Research Asia, Beijing. <p align="left">Aug. 2017 - Feb.2018</p>
+	* [[Microsoft/MMdnn](https://github.com/Microsoft/MMdnn)]
+
+#### Teaching Assistant
+
+- [Introduction to Computer Systems](https://www.classes.cs.uchicago.edu/archive/2018/fall/15400-1/), the University of Chicago <p align="left">Autumn 2018</p>
+- Introduction to Computer Science, Shanghai Jiao Tong University <p align="left">Autumn 2016</p>
